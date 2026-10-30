@@ -26,4 +26,3 @@ if dados:
     print(f"PIB: {pais['gdp_growth']}")
 else:
     print("Nenhum dado encontrado")
-
